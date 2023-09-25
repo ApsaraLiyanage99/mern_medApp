@@ -16,14 +16,11 @@ function About() {
               </h1>
               <hr className="w-50" />
               <div className="lead mb-4">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Officiis quibusdam, porro ut molestiae ratione voluptatum, iusto
-                repellendus veniam sequi nostrum eum suscipit quaerat non magnam
-                mollitia quod perspiciatis minus architecto. Lorem ipsum dolor,
-                sit amet consectetur adipisicing elit. Officiis quibusdam, porro
-                ut molestiae ratione voluptatum, iusto repellendus veniam sequi
-                nostrum eum suscipit quaerat non magnam mollitia quod
-                perspiciatis minus architecto.
+                We take pride in introducing our highly skilled and
+                compassionate healthcare professionals who are here to guide you
+                on your path to better health. Our team consists of doctors,
+                nurses, specialists, and support staff who share a common goal:
+                to ensure your well-being
               </div>
               <button className="btn btn-success rounded-pill px-4 py-2">
                 Join Today

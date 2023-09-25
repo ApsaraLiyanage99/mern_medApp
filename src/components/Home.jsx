@@ -14,11 +14,15 @@ function Home() {
               <h1 className="display-4 fw-bolder mb-4 text-center text-white">
                 Feels the healthier breathe
               </h1>
-              <p className="lead text-center fs-4 mb-5 text-white">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga
-                aliquid voluptatem natus, esse ipsa rem nemo animi reiciendis
-                eaque itaque accusamus aut exercitationem inventore, delectus
-                rerum repudiandae quisquam eius assumenda?
+              <p className="lead text-center fs-5 mb-5 text-white">
+                Welcome to HealthHub Medicare Center, where your health and
+                well-being take center stage. Our commitment to providing
+                exceptional healthcare services is at the heart of everything we
+                do. At HealthHub Medicare Center, our mission is clear: to
+                prioritize your health, ensuring you receive the highest
+                standard of care tailored to your unique needs. We believe that
+                every individual deserves access to compassionate,
+                patient-centric healthcare that fosters well-being and recovery.
               </p>
               <div className="buttons d-flex justify-content-center">
                 <NavLink
