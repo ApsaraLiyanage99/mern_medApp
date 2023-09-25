@@ -20,3 +20,13 @@
   cursor: pointer;
   box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
+
+/* Form */
+.form {
+  background: rgb(0, 200, 90);
+  background: linear-gradient(
+    90deg,
+    rgb(0, 200, 90) 50%,
+    rgba(0, 90, 105, 11) 100%
+  );
+}
